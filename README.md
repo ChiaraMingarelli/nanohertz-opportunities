@@ -3,6 +3,7 @@
 Fellowships, postdoc and faculty postings, student programs, travel grants and observing support for NANOGrav undergraduates, graduate students, postdocs and faculty-job seekers.
 
 - **Live page (updated automatically):** https://claude.ai/artifact/DuansmciTx1PXRrPWb1VA3
+- **On GitHub Pages:** https://chiaramingarelli.github.io/nanohertz-opportunities/
 - **This repository:** a self-contained copy you can read, download or host yourself.
 
 ## Use it
