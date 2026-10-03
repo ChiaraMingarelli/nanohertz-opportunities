@@ -15,11 +15,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug",
    "gr"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "aas-famous-travel-grants-aas-249",
@@ -36,11 +36,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "aas-international-travel-grants",
@@ -58,11 +58,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd",
    "gr"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "academia-sinica-postdoc-in-theoretical-nuclear-particle-",
@@ -80,10 +80,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "access-explore-discover-accelerate-allocations",
@@ -100,12 +100,12 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd",
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "alberta-graduate-excellence-scholarship-ages",
@@ -122,11 +122,11 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "amnh-postdoctoral-fellowship-competition-in-astrophysics",
@@ -144,10 +144,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "anthropic-ai-for-science-program",
@@ -164,11 +164,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "aps-aas-student-and-early-career-travel-grants",
@@ -186,13 +186,13 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "pd",
    "ug"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "aps-dgrav-student-travel-grant",
@@ -209,11 +209,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "ariel-university-postdoc-in-cosmology-theoretical-hep",
@@ -230,11 +230,11 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-30"
+  "d": null
  },
  {
   "id": "arizona-state-beus-prize-fellow",
@@ -252,10 +252,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "arizona-state-exoplanet-stellar-research-for-hwo",
@@ -273,10 +273,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "arizona-state-planet-formation-shock-physics-postdocs",
@@ -294,10 +294,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "aspen-center-for-physics-summer-program-2027",
@@ -315,10 +315,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "aspen-center-for-physics-winter-conferences-2027",
@@ -336,11 +336,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd",
    "gr"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "astron-bell-burnell-postdoctoral-fellowship",
@@ -358,10 +358,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "astron-jive-summer-research-programme",
@@ -379,11 +379,11 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "astron-postdoc-in-radio-stars-exoplanets",
@@ -401,10 +401,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "astronomical-institute-cas-czechia-postdoctoral-fellowsh",
@@ -422,10 +422,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "astronova-fellowship-instrumentation",
@@ -443,10 +443,33 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "atnf-2027apr-semester",
+  "n": "ATNF Call for Proposals, 2027APR semester (ASKAP, ATCA, Murriyang/Parkes, LBA)",
+  "f": "CSIRO Australia Telescope National Facility",
+  "c": "Observing time",
+  "s": "watch",
+  "dt": "The 2026OCT deadline was 07:00 UT, 16 June 2026. ATNF's guide (dates approximate): APR-semester proposals open mid-November, deadline mid-December, observations start 1 April.",
+  "a": "Time on ASKAP, ATCA, Murriyang (Parkes), Tidbinbilla 70-m/34-m and the Long Baseline Array (as offered for 2026OCT), through OPAL with dual-anonymous review.",
+  "e": "CSIRO runs its radio telescopes as national facilities and allocates time 'to astronomers around the world on scientific merit', in two semesters a year.",
+  "u": "https://www.atnf.csiro.au/facilities/apply-for-time/",
+  "unv": "The exact 2027APR deadline is not yet announced, and the dates on the page are approximate. Grad-student PI status was not checked.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-03",
+  "added": "2026-10-03",
   "stages": [
    "pd"
   ],
-  "added": "2026-09-30"
+  "d": null
  },
  {
   "id": "aws-cloud-credit-for-research",
@@ -463,12 +486,12 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd",
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "blavatnik-regional-awards-for-young-scientists-2027",
@@ -488,10 +511,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "breakthrough-listen-summer-internship",
@@ -509,11 +532,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "brinson-prize-fellowship-stsci",
@@ -531,10 +554,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "british-columbia-graduate-scholarship-bcgs",
@@ -552,11 +575,11 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "burke-leinweber-fellowships-in-theoretical-physics-astrophys",
@@ -574,10 +597,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "caltech-exp-fellowships-in-experimental-physics-astrophy",
@@ -595,10 +618,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "caltech-experimental-cmb-cosmology-postdoc-bicep-keck",
@@ -616,10 +639,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "caltech-heising-simons-fellows-in-quantum-gravity",
@@ -637,10 +660,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "caltech-ipac-postdoc-extragalactic-astrophysics-roman",
@@ -659,10 +682,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "caltech-postdoc-in-binary-star-astrophysics",
@@ -680,10 +703,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "caltech-postdoctoral-scholar-in-astronomy-el-badry-group",
@@ -701,10 +724,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "caltech-srl-high-energy-astrophysics-postdoc-nustar",
@@ -722,10 +745,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "cambridge-kavli-institute-fellowship-in-cosmology-astrop",
@@ -743,10 +766,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "camk-multimessenger-mbh-lisa-postdoc",
@@ -765,10 +788,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "camk-warsaw-postdoc-in-numerical-astrophysics-black-hole",
@@ -786,10 +809,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "canadian-postdoctoral-research-awards-cpra",
@@ -808,10 +831,10 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "carnegie-epl-postdoctoral-fellowship",
@@ -829,10 +852,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "carnegie-observatories-carnegie-fellowship-in-observatio",
@@ -850,10 +873,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "carnegie-observatories-ctac-fellowship",
@@ -871,10 +894,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "casca-j-s-plaskett-medal",
@@ -892,11 +915,11 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "ccast-ihep-postdoctoral-fellow-positions",
@@ -914,10 +937,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "cea-saclay-ipht-postdocs-in-high-energy-theory-amplitude",
@@ -935,10 +958,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "cefca-jtrain-msca-cofund-fellowships",
@@ -957,10 +980,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "cern-theory-th-department-fellowship",
@@ -979,10 +1002,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "cfa-cfa-prize-postdoctoral-fellowship",
@@ -1000,10 +1023,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "cfa-clay-postdoctoral-fellowship",
@@ -1021,10 +1044,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "cfa-time-domain-gw-astrophysics-postdoc",
@@ -1042,10 +1065,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "cgrs-master-s-cgrs-m",
@@ -1064,10 +1087,10 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "chandra-cycle-29-general-observer",
@@ -1085,11 +1108,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "churchill-scholarship-2027-28",
@@ -1107,10 +1130,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "ciera-postdoctoral-fellowship",
@@ -1128,10 +1151,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "ciera-reu-northwestern",
@@ -1149,11 +1172,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "cita-postdoctoral-national-fellowships",
@@ -1170,10 +1193,10 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "cita-summer-undergraduate-research-fellowship-surf",
@@ -1190,11 +1213,11 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "cnrs-lapth-postdoc-in-theoretical-cosmology-dark-matter-",
@@ -1212,10 +1235,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "cnrs-lapth-two-postdocs-in-simulation-based-inference-ls",
@@ -1233,10 +1256,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "code-astro-software-engineering-workshop",
@@ -1255,13 +1278,13 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr",
    "ug",
    "pd"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "columbia-postdoctoral-research-scientist-physics",
@@ -1279,10 +1302,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "copenhagen-nbia-postdoc-in-theoretical-gw-astrophysics",
@@ -1300,10 +1323,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "copenhagen-postdoctoral-fellowships-in-gravitational-wav",
@@ -1321,10 +1344,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "cornell-astronomy-reu",
@@ -1342,11 +1365,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "cosmicai-postdoctoral-fellows",
@@ -1364,11 +1387,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "daad-rise-germany",
@@ -1386,11 +1409,11 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "doe-computational-science-graduate-fellowship-csgf",
@@ -1408,11 +1431,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "doe-office-of-science-graduate-student-research-scgsr-2026-s",
@@ -1430,10 +1453,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "doe-suli-spring-2027-term",
@@ -1451,10 +1474,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "doe-suli-summer-2027",
@@ -1473,10 +1496,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "duisburg-essen-theoretical-astrochemistry",
@@ -1495,10 +1518,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "dunlap-institute-summer-school",
@@ -1516,12 +1539,12 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug",
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "dunlap-optical-ground-station-postdoc",
@@ -1541,10 +1564,10 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "dunlap-photonic-aosoc-postdoc",
@@ -1563,10 +1586,33 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
+ },
+ {
+  "id": "e-merlin-cycle-23",
+  "n": "e-MERLIN Cycle 23 Call for Proposals",
+  "f": "e-MERLIN / Jodrell Bank Observatory (University of Manchester; STFC)",
+  "c": "Observing time",
+  "s": "open",
+  "d": "2026-10-22",
+  "dt": "Deadline 13:59:59 UT on 22 Oct 2026. Observations 1 Feb to 31 Jul 2027.",
+  "a": "Observing time on the e-MERLIN radio interferometer (L, C and K bands; 12-150 mas resolution) for Cycle 23, submitted through the Polaris proposal tool from 1 Oct 2026. Lovell telescope availability is limited this cycle. Joint EVN+e-MERLIN observations go through the EVN call. No funding.",
+  "e": "The UK's national radio interferometer facility. It requests proposals from the international astronomical community; the e-MERLIN TAC reviews them under STFC rules, on scientific merit and technical feasibility alone. Proposals must follow dual-anonymous guidelines, and projects that include researchers affiliated with Russian institutes are not accepted.",
+  "u": "https://www.e-merlin.ac.uk/tools/e-MERLIN_Cycle_23_CfP.pdf",
+  "unv": "Grad-student PI status is not stated in the call.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-03",
+  "added": "2026-10-03",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "eacoa-east-asian-core-observatories-fellowship-2027",
@@ -1584,10 +1630,33 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "effelsberg-100m-march-2027",
+  "n": "Effelsberg 100-m Radio Telescope Call for Proposals (1 March 2027 deadline)",
+  "f": "Max Planck Institute for Radio Astronomy (MPIfR)",
+  "c": "Observing time",
+  "s": "watch",
+  "dt": "Last deadline 1 Sep 2026, 15:00 UT. The September 2026 Effelsberg Newsletter says 'The following deadline will be on March 1st, 2027.' ToO/DDT requests are possible at any time.",
+  "a": "Observing time on the 100-m Effelsberg radio telescope, judged by the Effelsberg Program Committee on scientific merit and feasibility, and submitted through NorthStar. MPIfR offers support with preparation, observing and data analysis.",
+  "e": "MPIfR's regular call for the Effelsberg 100-m single dish. 'Access to the telescope is open to all qualified astronomers', and use by scientists from outside MPIfR is encouraged.",
+  "u": "https://www.mpifr-bonn.mpg.de/9468614/eff-news-autumn2026.pdf",
+  "unv": "The March 2027 call text is not yet released; the date is from the September 2026 newsletter. MPIfR's general astronomers page still lists an older schedule of three deadlines a year (1 Feb, 1 Jun, 1 Oct), which conflicts with the newsletter. Grad-student PI status was not checked.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-03",
+  "added": "2026-10-03",
   "stages": [
    "pd"
   ],
-  "added": "2026-09-30"
+  "d": null
  },
  {
   "id": "ens-paris-philippe-meyer-junior-research-chairs",
@@ -1605,10 +1674,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship",
@@ -1626,11 +1695,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "eso-fellowship-programme-2026-2027",
@@ -1648,10 +1717,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "eso-studentship-programme",
@@ -1669,10 +1738,57 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
+  ]
+ },
+ {
+  "id": "evn-call-april-2027",
+  "n": "European VLBI Network (EVN) Call for Proposals, 1 April 2027 deadline",
+  "f": "European VLBI Network / JIVE",
+  "c": "Observing time",
+  "s": "watch",
+  "dt": "Last deadline 1 Oct 2026, 16:00 UTC. From 2027 the EVN moves to two calls a year with deadlines on 1 April and 1 October, so the next regular deadline is 1 April 2027. ToO and short requests may be sent at any time.",
+  "a": "VLBI observing time on the EVN, optionally with joint e-MERLIN and global VLBI on NRAO/GBO telescopes, plus MeerKAT and GMRT at L-band. From 2027 the EVN observes in 10 one-week sessions a year. JIVE offers user support.",
+  "e": "Open call from an international VLBI consortium. 'The EVN facility is open to all astronomers', except that PIs and co-Is at institutes in Russia or Belarus are currently barred. Student proposals are encouraged.",
+  "u": "https://www.evlbi.org/sites/default/files/shared/EVNCfP.pdf",
+  "unv": "The April 2027 call document is not yet released; the date comes from the stated new fixed schedule.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-03",
+  "added": "2026-10-03",
+  "stages": [
+   "pd",
+   "gr"
   ],
-  "added": "2026-10-01"
+  "d": null
+ },
+ {
+  "id": "fast-open-time-2027",
+  "n": "FAST Science Observing Proposals Call (next yearly call)",
+  "f": "National Astronomical Observatories, Chinese Academy of Sciences (FAST)",
+  "c": "Observing time",
+  "s": "watch",
+  "dt": "The 2026 call was posted 31 Dec 2025 with a deadline of 16:00 UT, 31 Mar 2026, extended to 16:00 UT, 7 Apr 2026, for observations Aug 2026 to Jul 2027. The next call is not posted.",
+  "a": "About 2400 hours on the 500-m FAST telescope (19-beam receiver) across Regular Science Programs (up to 50 h each) and Medium-Sized Programs (50-150 h). MSPs are open only to PIs at Chinese institutions.",
+  "e": "Yearly call for China's FAST radio telescope. Users of any nationality or affiliation may submit Regular Science Program proposals; Medium-Sized Program PIs must be at an institution in China.",
+  "u": "https://fast.bao.ac.cn/cms/article/2006192136192610305/",
+  "unv": "Timing of the next call is not posted (the page renders with JavaScript and was read in a browser). Grad-student PI status was not checked. US federal funding rules on work with Chinese institutions were not checked.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-03",
+  "added": "2026-10-03",
+  "stages": [
+   "pd"
+  ],
+  "d": null
  },
  {
   "id": "fermilab-leon-lederman-fellowship",
@@ -1690,11 +1806,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "fermilab-theory-division-research-associate",
@@ -1712,11 +1828,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "finca-turku-postdoctoral-researcher-positions",
@@ -1735,10 +1851,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "five-college-astronomy-fellow-2027",
@@ -1758,10 +1874,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-academia-sinica-iams-amo-faculty",
@@ -1778,11 +1894,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-academia-sinica-iop-tenure-track-faculty-all-ranks",
@@ -1800,10 +1916,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-amherst-college-assistant-professor-of-physics",
@@ -1821,10 +1937,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-angelo-state-open-rank-instructor-or-tt-faculty-plane",
@@ -1842,10 +1958,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-bates-college-asst-prof-of-physics-all-subfields-incl",
@@ -1863,10 +1979,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-bimsa-assistant-professor",
@@ -1883,11 +1999,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-binghamton-asst-prof-theoretical-high-energy-physics-",
@@ -1906,10 +2022,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-caltech-faculty-position-experimental-or-theoretical-",
@@ -1927,10 +2043,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-calvin-university-assistant-professor-astronomy",
@@ -1948,10 +2064,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-college-of-the-holy-cross-tt-asst-prof-theoretical-or",
@@ -1969,11 +2085,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "fj-columbia-flatiron-ap-computational-cmt",
@@ -1990,11 +2106,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-cornell-astronomy-open-rank-planetary",
@@ -2013,10 +2129,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-cornell-open-rank-faculty-astrophysics",
@@ -2034,10 +2150,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-cornell-physics-ap-exp-quantum",
@@ -2055,10 +2171,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-eastern-university-asst-assoc-prof-of-astronomy-obser",
@@ -2076,11 +2192,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "fj-elte-budapest-tenure-track-assistant-professorships",
@@ -2098,10 +2214,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-florida-gulf-coast-univ-assistant-professor-physics",
@@ -2119,10 +2235,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-fudan-university-tt-tenured-faculty-in-astronomy-astr",
@@ -2140,10 +2256,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-geneva-dpnc-collider-detector-prof",
@@ -2161,10 +2277,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-georgia-tech-open-rank-tt-physics-ai-machine-learning",
@@ -2182,10 +2298,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-harvard-smithsonian-cfa-permanent-track-research-astr",
@@ -2204,10 +2320,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-hillsdale-college-tt-asst-prof-of-physics",
@@ -2225,10 +2341,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-hkust-tt-cmp-experiment",
@@ -2246,11 +2362,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-hkust-tt-cmp-quantum",
@@ -2268,11 +2384,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-hkust-tt-cmp-theory",
@@ -2290,11 +2406,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-hkust-tt-experimental-particle",
@@ -2312,11 +2428,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-hkust-tt-faculty-observational-cosmology",
@@ -2334,10 +2450,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-hkust-tt-particle-theory-cosmology",
@@ -2355,11 +2471,11 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-ihep-theory-tt-research-assoc-prof",
@@ -2378,10 +2494,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-imperial-college-london-asst-assoc-prof-data-intensiv",
@@ -2399,10 +2515,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-kentucky-ap-theoretical-quantum-materials",
@@ -2420,10 +2536,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-lehigh-asst-prof-of-physics-extragalactic-astrophysic",
@@ -2441,10 +2557,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-lsu-open-rank-tt-theoretical-gravity-physics-astrophy",
@@ -2462,10 +2578,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-mcdaniel-college-asst-prof-of-astronomy-astrophysics",
@@ -2483,10 +2599,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-mcgill-tt-asst-prof-in-astrophysics-transient-astropa",
@@ -2504,10 +2620,10 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-mcgill-tt-theoretical-biophysics",
@@ -2525,10 +2641,10 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-miami-u-ap-qist-experiment",
@@ -2546,10 +2662,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-miami-u-ap-qist-theory",
@@ -2567,10 +2683,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-minnesota-ap-quantum-information",
@@ -2589,10 +2705,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-mit-eaps-planetary-science",
@@ -2610,10 +2726,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-national-cheng-kung-univ-tt-tenured-faculty-in-physic",
@@ -2631,10 +2747,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-national-taiwan-univ-faculty-in-physics-applied-physi",
@@ -2652,10 +2768,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-national-tsing-hua-univ-faculty-positions-in-physics-",
@@ -2673,10 +2789,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-ncra-tifr-observatory-support",
@@ -2695,10 +2811,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-ncra-tifr-pune-faculty-positions-astronomy",
@@ -2716,10 +2832,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-ncra-tifr-technology-development",
@@ -2737,10 +2853,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-niels-bohr-institute-copenhagen-asst-prof-theoretical",
@@ -2759,10 +2875,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-ntu-ccms-tt-research-fellow",
@@ -2780,10 +2896,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-nycu-faculty-positions-institute-of-physics-all-ranks",
@@ -2800,11 +2916,11 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "fj-ohio-state-tenure-track-faculty-position-in-astronomy",
@@ -2822,10 +2938,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-oklahoma-ap-theoretical-amo",
@@ -2843,10 +2959,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-oklahoma-asst-assoc-prof-exp-hep",
@@ -2865,10 +2981,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-oxford-assoc-prof-mathematical-physics",
@@ -2886,10 +3002,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-penn-state-asst-prof-of-physics-particle-astrophysics",
@@ -2907,10 +3023,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-pitzer-scripps-colleges-tenure-track-astrophysics-pro",
@@ -2928,10 +3044,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-puc-chile-asst-prof-astronomical-instrumentation-expe",
@@ -2949,10 +3065,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-rice-tt-experimental-amo",
@@ -2971,10 +3087,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-salisbury-univ-assistant-professor-physics",
@@ -2992,10 +3108,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-shanghai-jiao-tong-tdli-astronomy-tt-fellows-in-astro",
@@ -3013,10 +3129,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-sjtu-ins-quantum-info-faculty",
@@ -3033,11 +3149,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-swinburne-senior-lecturer-physics-astronomy-women-onl",
@@ -3056,10 +3172,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-tdli-tt-fellow-condensed-matter",
@@ -3077,10 +3193,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-tel-aviv-tt-theoretical-hep",
@@ -3098,10 +3214,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-tsinghua-university-faculty-positions-in-astrophysics",
@@ -3119,10 +3235,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-tsung-dao-lee-institute-faculty-particle-nuclear-astr",
@@ -3140,10 +3256,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-tufts-ap-exp-soft-matter-biophysics",
@@ -3161,10 +3277,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-uah-assistant-professor-space-science-heliophysics",
@@ -3182,10 +3298,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-ucb-astronomy-asst-prof",
@@ -3203,10 +3319,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-uchicago-assistant-professor-theoretical-physics",
@@ -3224,10 +3340,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-uchicago-asst-assoc-prof-astronomy-astrophysics-extre",
@@ -3245,10 +3361,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-uchicago-asst-assoc-prof-astronomy-astrophysics-origi",
@@ -3266,10 +3382,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-uiuc-open-rank-qis-theory",
@@ -3288,10 +3404,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-unc-chapel-hill-tt-asst-prof-astrophysics-ai-ml",
@@ -3309,10 +3425,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-amsterdam-api-tt-faculty-observational-exopla",
@@ -3330,10 +3446,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-florida-asst-prof-experimental-particle-astro",
@@ -3351,10 +3467,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-haifa-tenure-track-position-in-physics-senior",
@@ -3373,10 +3489,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-hong-kong-tt-asst-assoc-full-prof-astrophysic",
@@ -3394,10 +3510,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-kentucky-asst-prof-computational-astrophysics",
@@ -3415,10 +3531,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-michigan-assistant-professor-of-physics",
@@ -3437,10 +3553,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-puget-sound-asst-prof-physics-computational-d",
@@ -3458,10 +3574,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-richmond-assistant-professor-of-physics",
@@ -3479,11 +3595,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "fj-univ-of-south-alabama-tenure-track-assistant-professo",
@@ -3501,10 +3617,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-sydney-lecturer-in-radio-astronomy",
@@ -3522,10 +3638,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-univ-of-the-south-sewanee-tt-assistant-professor-in-p",
@@ -3543,10 +3659,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-universit-laval-tt-or-tenured-professor-in-astrophysi",
@@ -3564,10 +3680,10 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-ustc-wilczek-quantum-center-faculty",
@@ -3584,11 +3700,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "fj-ut-austin-tenure-track-asst-prof-in-astronomy",
@@ -3606,10 +3722,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-ut-austin-tenured-tt-faculty-astronomical-instrumenta",
@@ -3627,10 +3743,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-utep-asst-prof-observational-astronomy",
@@ -3648,10 +3764,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-utk-ap-quantum-information-theory",
@@ -3669,10 +3785,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-uw-whitewater-assistant-professor-tt-physics",
@@ -3690,10 +3806,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-vanderbilt-ap-high-energy-nuclear-theory",
@@ -3711,10 +3827,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-villanova-tenure-track-asst-prof-in-physics",
@@ -3732,10 +3848,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-washington-and-lee-assistant-professor-of-physics",
@@ -3753,10 +3869,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-washu-ai-cluster-hire-physics-among-depts",
@@ -3774,10 +3890,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fj-westlake-astronomy-faculty",
@@ -3795,10 +3911,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "fj-williams-college-tt-asst-prof-of-physics-theory-compu",
@@ -3816,10 +3932,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "fj"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "flatiron-cca-flatiron-software-research-fellow",
@@ -3837,10 +3953,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "flatiron-cca-research-fellow",
@@ -3857,10 +3973,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "frq-doctoral-research-scholarship-b2",
@@ -3878,11 +3994,11 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "frq-master-s-research-scholarship-b1",
@@ -3901,10 +4017,10 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "frq-pbeee-merit-scholarship-for-foreign-students",
@@ -3923,11 +4039,11 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr",
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "frq-postdoctoral-scholarship-b3",
@@ -3947,10 +4063,10 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "fudan-u-cfaa-postdoctoral-fellowship",
@@ -3968,10 +4084,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "gates-cambridge-scholarship-us-round",
@@ -3989,12 +4105,12 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug",
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "gbt-observer-training-workshop",
@@ -4014,11 +4130,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr",
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "goldwater-scholarship-2027",
@@ -4036,10 +4152,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "goldwater-summer-research-internship-program-new",
@@ -4058,10 +4174,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "google-cloud-research-credits-gpar",
@@ -4078,12 +4194,12 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd",
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "gw-open-data-workshop",
@@ -4102,13 +4218,13 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr",
    "ug",
    "pd"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "gwic-braccini-thesis-prize",
@@ -4126,11 +4242,11 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "hannover-et-suspension-platform-ifo-postdoc",
@@ -4149,10 +4265,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "harvard-bhi-bhex-postdoctoral-research-fellow",
@@ -4170,10 +4286,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "harvard-black-hole-initiative-postdoctoral-fellowship",
@@ -4191,10 +4307,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "harvard-galileo-project-prize-postdoc",
@@ -4212,10 +4328,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "harvard-itc-fellowship",
@@ -4233,10 +4349,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "harvard-society-of-fellows-junior-fellows",
@@ -4254,10 +4370,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "hertz-fellowship-2027",
@@ -4275,11 +4391,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "hits-independent-postdoctoral-program",
@@ -4297,10 +4413,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "humboldt-research-fellowship-for-postdocs",
@@ -4318,11 +4434,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "iag-usp-s-o-paulo-high-energy-astrophysics-postdoc-swgo",
@@ -4340,10 +4456,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "iaifi-fellowship",
@@ -4361,10 +4477,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "ias-school-of-natural-sciences-membership-postdoc-visiting-p",
@@ -4382,10 +4498,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "ictp-ap-beijing-gravitational-wave-physics-postdoc",
@@ -4403,10 +4519,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ifae-ramon-y-cajal-2026-eoi",
@@ -4425,10 +4541,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "ihep-beijing-ams-postdoc",
@@ -4446,10 +4562,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ihep-beijing-postdocs-in-magnetic-monopoles-cosmic-rays",
@@ -4467,10 +4583,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ihep-beijing-postdocs-in-neutrino-physics",
@@ -4487,11 +4603,11 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-30"
+  "d": null
  },
  {
   "id": "imperial-college-royal-commission-for-the-exhibition-of-",
@@ -4509,10 +4625,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "imprs-astro-munich-phd-positions-2027",
@@ -4531,10 +4647,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "imprs-for-astronomy-astrophysics-bonn-cologne",
@@ -4552,10 +4668,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "imprs-for-gravity-at-the-extreme-aei-potsdam-hannover",
@@ -4573,11 +4689,11 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "intelligence-community-postdoctoral-research-fellowship",
@@ -4595,11 +4711,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "ipta-student-week",
@@ -4616,12 +4732,12 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "ug"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "iram-postdocs-in-millimeter-astronomy-for-noema",
@@ -4639,10 +4755,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "irap-toulouse-postdocs-in-stellar-spectropolarimetry-exo",
@@ -4660,10 +4776,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ista-sirius-fellowship-in-astrophysics",
@@ -4681,10 +4797,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "itp-cas-fusion-plasma-postdocs",
@@ -4703,11 +4819,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-10-02"
+  "d": null
  },
  {
   "id": "johns-hopkins-postdocs-in-gravitational-physics-and-gw-a",
@@ -4725,10 +4841,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "jpl-jwst-high-contrast-imaging-data-analysis-postdoc",
@@ -4746,10 +4862,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "kangwon-accelerator-physics-postdoc",
@@ -4768,10 +4884,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "kavli-ipmu-postdoc",
@@ -4789,10 +4905,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "kek-qup-postdoctoral-fellows-in-experimental-physics",
@@ -4810,10 +4926,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "kicp-fellowship",
@@ -4831,10 +4947,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "kipac-fellowships",
@@ -4852,10 +4968,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "kitp-postdoctoral-scholars-in-theoretical-physics",
@@ -4873,10 +4989,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "knight-hennessy-scholars-2027-cohort",
@@ -4894,11 +5010,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug",
    "gr"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "kyungpook-national-u-theoretical-hep-postdoc",
@@ -4916,10 +5032,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "lanl-computational-physics-student-summer-workshop",
@@ -4937,12 +5053,12 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr",
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "lapth-simons-axion-astroparticle-postdoc",
@@ -4961,10 +5077,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "lbnl-owen-chamberlain-fellowship-experimental-particle-physi",
@@ -4982,10 +5098,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "ligo-laboratory-instrument-experiment-postdoc",
@@ -5002,11 +5118,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-30"
+  "d": null
  },
  {
   "id": "ligo-laboratory-postdocs",
@@ -5024,11 +5140,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "ligo-surf-caltech",
@@ -5046,11 +5162,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "lims-london-arnold-landau-junior-fellowships",
@@ -5068,10 +5184,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "lmu-munich-fraunhofer-schwarzschild-postdoctoral-fellows",
@@ -5089,10 +5205,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "los-alamos-astrophysics-postdoc-center-for-theoretical-a",
@@ -5110,10 +5226,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "los-alamos-postdocs-in-nuclear-theory-t-2",
@@ -5131,10 +5247,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "lpens-paris-postdoc-in-radio-astronomy-astrophysics-ism",
@@ -5152,10 +5268,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "lpens-paris-postdoc-in-radio-astronomy-signal-processing",
@@ -5173,10 +5289,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "lsst-da-data-science-fellowship-program",
@@ -5194,11 +5310,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "lsst-discovery-alliance-vera-c-rubin-astronomy-frontiers",
@@ -5216,10 +5332,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "manchester-plasma-acceleration-postdoc",
@@ -5239,10 +5355,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "marie-sklodowska-curie-postdoctoral-fellowships",
@@ -5260,11 +5376,11 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "marietta-blau-institute-vienna-ai-for-rare-event-searche",
@@ -5282,10 +5398,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "marshall-scholarship-2027",
@@ -5303,10 +5419,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "max-planck-aei-potsdam-postdocs",
@@ -5325,10 +5441,34 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
+  ]
+ },
+ {
+  "id": "meerkat-open-time",
+  "n": "MeerKAT Open Time Call",
+  "f": "SARAO MeerKAT",
+  "c": "Observing time",
+  "s": "watch",
+  "dt": "2026 call (OT7) closed 15 Jul 2026, 12:00 UTC; next call not posted",
+  "a": "At least 2000 hours in a 12-month cycle; Regular (up to 100 h), Large (100-300 h) and Extra-Large (300-2000 h) proposals",
+  "e": "MeerKAT's yearly open-time call. Any researcher may lead a proposal, including postdocs and PhD students, from any institution.",
+  "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/3080126470/2026+Call+for+Proposals",
+  "unv": "Next call date",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-03",
+  "added": "2026-10-03",
+  "stages": [
+   "pd",
+   "gr"
   ],
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "miller-research-fellowship-2027-2030",
@@ -5346,10 +5486,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "mit-ctp-leinweber-postdoctoral-fellowships-in-theoretica",
@@ -5367,10 +5507,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mit-ctp-postdoc-in-high-energy-theory",
@@ -5388,10 +5528,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mit-kavli-postdoc-in-computational-relativistic-astrophy",
@@ -5409,10 +5549,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mit-kavli-x-ray-detector-lab-postdoc",
@@ -5430,10 +5570,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mit-pappalardo-fellowships-in-physics-2027-2030",
@@ -5451,10 +5591,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "mit-school-of-science-postdoctoral-fellowship",
@@ -5472,10 +5612,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mitacs-accelerate",
@@ -5493,12 +5633,12 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr",
    "pd"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "mitacs-globalink-research-award",
@@ -5517,13 +5657,13 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr",
    "ug",
    "pd"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "mitacs-globalink-research-internship",
@@ -5541,11 +5681,11 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "mitp-mainz-senior-postdoctoral-fellowships-2027-2030",
@@ -5564,10 +5704,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "monash-transient-multimessenger-rf",
@@ -5586,10 +5726,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "mpa-garching-lattice-simulations-of-inflation-with-gauge",
@@ -5607,10 +5747,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mpa-garching-microwave-polarization-analysis-with-fyst-c",
@@ -5628,10 +5768,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mpa-garching-postdoctoral-fellowships-in-astrophysics",
@@ -5649,10 +5789,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "mpe-garching-astrochemistry-nanoparticle-experiment-post",
@@ -5670,10 +5810,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mpia-heidelberg-exoplanet-atmosphere-modelling-postdoc-r",
@@ -5691,10 +5831,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mpia-heidelberg-exoplanet-direct-imaging-fellowship-pfe-",
@@ -5712,10 +5852,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mpia-heidelberg-exoplanet-direct-imaging-postdoc-ref-427",
@@ -5733,10 +5873,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mpia-heidelberg-extreme-adaptive-optics-fellowship-ref-4",
@@ -5754,10 +5894,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mpia-heidelberg-galaxies-cosmology-prize-fellowship-and-",
@@ -5775,10 +5915,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "mpia-heidelberg-star-formation-fellowship-pfe-ref-430",
@@ -5796,10 +5936,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "n3as-postdoctoral-fellowship-physics-frontier-center",
@@ -5817,10 +5957,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "nairr-pilot-resource-requests",
@@ -5837,12 +5977,12 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd",
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "nairr-start-up-allocations",
@@ -5859,12 +5999,12 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd",
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "naoj-fy2027-project-research-fellow",
@@ -5882,10 +6022,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "nasa-finesst",
@@ -5903,11 +6043,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "nasa-hubble-fellowship-program-nhfp",
@@ -5925,10 +6065,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "nasa-ostem-internships-summer-fall-2027",
@@ -5947,11 +6087,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug",
    "gr"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "nasa-postdoctoral-program-npp",
@@ -5969,10 +6109,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "national-taiwan-normal-u-computational-gravitational-dyn",
@@ -5990,10 +6130,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "naval-research-lab-nrc-research-associateships-in-high-e",
@@ -6011,10 +6151,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ncra-tifr-jawaharlal-nehru-open-postdoc-fellowships",
@@ -6034,10 +6174,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "ncts-taiwan-postdoc-scholars-hep-theory-phenomenology-as",
@@ -6055,10 +6195,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ndseg-fellowship-fy2027",
@@ -6077,11 +6217,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "nikhef-atlas-dark-sector-postdoc",
@@ -6100,10 +6240,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "northwestern-ciera-postdoc-associates-in-theoretical-ast",
@@ -6121,10 +6261,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "northwestern-ciera-postdocs-in-time-domain-astronomy-res",
@@ -6142,10 +6282,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "northwestern-uchicago-brinson-postdoctoral-fellowship",
@@ -6163,10 +6303,34 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
+  ]
+ },
+ {
+  "id": "nrao-2027b",
+  "n": "NRAO Semester 2027B (VLA/VLBA/GBT/HSA/GMVA)",
+  "f": "NSF NRAO / GBO",
+  "c": "Observing time",
+  "s": "watch",
+  "dt": "2027B call expected early January 2027 (NRAO lists the deadline as 3 Feb 2027, GBO as 27 Jan 2027); 2027A closed 29 Jul 2026, 17:00 EDT",
+  "a": "VLA, GBT and VLBA time (2027A offered about 3300, 2000 and 965 hours); joint time with ALMA, JWST, HST, Chandra, XMM and IXPE",
+  "e": "NRAO's twice-yearly call for its radio telescopes. Open to all, but from 27A the VLA and GBT limit time for PIs at non-US institutions.",
+  "u": "https://science.nrao.edu/observing/call-for-proposals",
+  "unv": "2027B deadline not yet posted, and the NRAO and GBO pages list different dates",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-03",
+  "added": "2026-10-03",
+  "stages": [
+   "pd",
+   "gr"
   ],
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "nrao-aui-doctoral-dissertation-award",
@@ -6184,10 +6348,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "nrao-gbo-summer-student-research",
@@ -6205,12 +6369,12 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug",
    "gr"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "nrao-graduate-student-researcher-program",
@@ -6227,11 +6391,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "nrao-grote-reber-doctoral-fellowship",
@@ -6249,11 +6413,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "nrao-jansky-postdoctoral-fellowship-2027",
@@ -6271,10 +6435,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "nrao-post-baccalaureate-fellowship",
@@ -6292,11 +6456,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "nrao-student-observing-support-sos",
@@ -6314,12 +6478,12 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr",
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "nrao-synthesis-imaging-workshop",
@@ -6336,11 +6500,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "nrc-canada-canadian-ska-scientist-program",
@@ -6358,10 +6522,10 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "nrc-canada-herzberg-instrument-science-postdoctoral-fell",
@@ -6379,10 +6543,10 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "nrc-canada-plaskett-postdoctoral-fellowship",
@@ -6400,10 +6564,10 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "nrc-covington-fellowship-drao",
@@ -6422,11 +6586,11 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "nrc-ra-integrated-photonics-space-astronomy",
@@ -6445,10 +6609,10 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "nserc-canada-graduate-research-scholarship-doctoral-cgrs-d",
@@ -6467,10 +6631,10 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "nserc-usra",
@@ -6488,11 +6652,11 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "nsf-astronomy-astrophysics-postdoctoral-fellowship-aapf",
@@ -6516,10 +6680,10 @@
     "u": "https://simpler.grants.gov/opportunity/70e5bb00-3652-4fab-89e6-652ec4aa4ca1"
    }
   ],
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "nsf-graduate-research-fellowship-grfp",
@@ -6537,11 +6701,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "nsf-mps-ascend-postdoctoral-fellowships",
@@ -6559,11 +6723,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "nsf-reu-sites-physics-astronomy",
@@ -6587,11 +6751,11 @@
     "u": "https://simpler.grants.gov/opportunity/19553c47-f333-4b57-b6c3-74f38305903f"
    }
   ],
+  "added": "2026-09-29",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "nyu-ccpp-james-arthur-postdoctoral-fellowship-astrophysi",
@@ -6609,10 +6773,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "observatoire-de-la-c-te-d-azur-poincar-early-career-fell",
@@ -6630,10 +6794,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "observatoire-de-paris-21-cm-cosmology-eor-data-analysis",
@@ -6651,10 +6815,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ohio-state-ccapp-postdoctoral-fellows",
@@ -6672,10 +6836,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "oist-postdocs-quantum-gravity-unit",
@@ -6693,10 +6857,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ontario-graduate-scholarship-ogs",
@@ -6714,11 +6878,11 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "open-university-of-israel-2-3-postdocs-at-arco",
@@ -6736,10 +6900,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "oxford-beecroft-fellow-in-cosmology",
@@ -6757,10 +6921,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "paul-daisy-soros-fellowships-for-new-americans-2027",
@@ -6779,11 +6943,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "peking-university-kiaa-boya-fellowship-in-astronomy",
@@ -6801,10 +6965,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "perimeter-institute-postdoctoral-fellowship",
@@ -6822,10 +6986,10 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "perimeter-psi-start-undergrad-summer-school-research-int",
@@ -6843,11 +7007,11 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "perimeter-scholars-international-psi-master-s",
@@ -6864,11 +7028,11 @@
   "region": "Canada",
   "nfit": "Low",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "princeton-gravity-initiative-postdocs",
@@ -6886,11 +7050,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "princeton-postdoctoral-research-in-astrophysical-science",
@@ -6908,10 +7072,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "pulsar-science-collaboratory-psc-summer-camp",
@@ -6929,11 +7093,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "purple-mountain-observatory-dark-matter-computational-as",
@@ -6951,10 +7115,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "radboud-u-3-postdocs-on-origins-of-irreversibility",
@@ -6972,10 +7136,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "rhodes-scholarship-us-2027",
@@ -6993,11 +7157,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "riken-ithems-postdocs-in-string-theory-qft-ml",
@@ -7014,11 +7178,11 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-30"
+  "d": null
  },
  {
   "id": "rodger-doxsey-travel-prize-aas-249",
@@ -7036,12 +7200,12 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "gr",
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "schmidt-science-fellows",
@@ -7059,11 +7223,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "sigma-xi-grants-in-aid-of-research-astronomy-designated",
@@ -7082,11 +7246,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "gr",
    "ug"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "simons-society-of-fellows-junior-fellows",
@@ -7103,11 +7267,11 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "skai-postdoctoral-associate",
@@ -7125,10 +7289,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "slac-panofsky-fellowship",
@@ -7146,11 +7310,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "slac-postdoctoral-research-associate-particle-theory-gro",
@@ -7168,10 +7332,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "space-research-centre-pas-postdoc-in-heliospheric-inters",
@@ -7189,10 +7353,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "sps-summer-internship-program-2027",
@@ -7211,10 +7375,10 @@
   "region": "US",
   "nfit": "Low",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "stanford-litp-postdoctoral-fellowship-in-theoretical-phy",
@@ -7232,10 +7396,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "stanford-postdoc-simons-collaboration-on-extreme-electro",
@@ -7253,10 +7417,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "stsci-lasker-fellowship-2027",
@@ -7275,10 +7439,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "sun-yat-sen-u-zhuhai-holography-gravity-quantum-dynamics",
@@ -7296,10 +7460,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "sustech-postdoc-in-neutrino-dark-matter-physics",
@@ -7317,10 +7481,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "sustech-postdoc-in-particle-physics-neutrinos-dark-matte",
@@ -7338,10 +7502,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "tdli-shanghai-trident-neutrino-telescope-postdoc",
@@ -7359,10 +7523,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "tdli-sjtu-postdoc-particle-nuclear-theory",
@@ -7380,10 +7544,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "tdli-sjtu-prize-postdoctoral-fellowships-in-astrophysics",
@@ -7401,10 +7565,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "trottier-space-institute-mcgill-postdoctoral-fellowships",
@@ -7423,11 +7587,11 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "tsi-summer-undergraduate-research-award-mcgill",
@@ -7445,11 +7609,11 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "tsinghua-u-tsinghua-astrophysics-outstanding-tao-fellow",
@@ -7467,10 +7631,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "tu-munich-icecube-astroparticle-postdoc",
@@ -7488,10 +7652,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "tum-junior-group-leader-cmt-qi",
@@ -7510,10 +7674,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "u-birmingham-research-fellow-in-nanohertz-gravitational-",
@@ -7531,10 +7695,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "u-montr-al-experimental-dark-matter-postdocs",
@@ -7552,10 +7716,10 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "u-of-t-astronomy-surp-dunlap-daa",
@@ -7572,11 +7736,11 @@
   "region": "Canada",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "u-toronto-dunlap-postdoc-in-experimental-particle-astrop",
@@ -7594,10 +7758,10 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "u-toronto-dunlap-postdoctoral-fellowships",
@@ -7615,10 +7779,10 @@
   "region": "Canada",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "u-washington-particle-physics-string-theory-cosmology-po",
@@ -7636,10 +7800,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "uc-berkeley-astronomy-postdoctoral-fellowship-multi-rapt",
@@ -7657,10 +7821,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "uc-berkeley-bccp-postdoctoral-fellowship",
@@ -7678,10 +7842,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "uc-san-diego-dark-matter-structure-postdoc",
@@ -7699,10 +7863,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "uc-santa-cruz-uco-adaptive-optics-coronagraphy-postdoc",
@@ -7720,10 +7884,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ucas-ictp-ap-postdoc-in-gravitational-wave-physics",
@@ -7741,10 +7905,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "uchicago-e-margaret-burbidge-prize-postdoctoral-fellowsh",
@@ -7762,10 +7926,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "uchicago-efi-fermi-mccormick-oehme-postdoctoral-fellowsh",
@@ -7783,10 +7947,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "uchicago-litp-leinweber-institute-postdoctoral-fellow",
@@ -7805,10 +7969,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "ucl-postdoc-in-high-redshift-extragalactic-observations-",
@@ -7826,10 +7990,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ucla-bhaumik-prize-postdoctoral-fellows",
@@ -7847,10 +8011,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ucla-postdoctoral-scholar-in-astronomy-treu-group",
@@ -7869,10 +8033,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-01"
+  ]
  },
  {
   "id": "uf-international-reu-in-gravitational-physics",
@@ -7890,11 +8054,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "uiuc-simons-bhsg-postdoc-fellowship",
@@ -7913,10 +8077,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "university-of-amsterdam-els-koffeman-postdoctoral-fellow",
@@ -7934,10 +8098,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "university-of-arizona-arizona-cosmology-lab-fellowship",
@@ -7955,10 +8119,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "university-of-geneva-postdocs-in-gravitational-wave-phys",
@@ -7976,10 +8140,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "university-of-warsaw-postdoc-in-qft-in-curved-spacetime-",
@@ -7997,10 +8161,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ura-honorary-tollestrup-award-for-postdoctoral-research",
@@ -8018,11 +8182,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd"
   ],
-  "d": null,
-  "added": "2026-09-29"
+  "d": null
  },
  {
   "id": "ura-visiting-scholars-program-fermilab",
@@ -8040,11 +8204,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-29",
+  "added": "2026-09-29",
   "stages": [
    "pd",
    "gr"
-  ],
-  "added": "2026-09-29"
+  ]
  },
  {
   "id": "ustc-atlas-postdoc",
@@ -8063,10 +8227,10 @@
   "region": "International",
   "nfit": "Low",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "ustc-shanghai-ias-postdoc-interdisciplinary-theoretical-",
@@ -8084,10 +8248,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ut-austin-cosmicai-accelerated-universe-postdoctoral-fel",
@@ -8105,10 +8269,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ut-austin-multiscale-physics-of-clouds-across-planetary-",
@@ -8126,10 +8290,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "ut-austin-postdoc-in-experimental-cosmology-cmb",
@@ -8147,10 +8311,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "utrgv-reu-space-gw",
@@ -8168,11 +8332,11 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "vanderbilt-postdoc-on-black-holes-in-dwarf-galaxies",
@@ -8190,10 +8354,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "via-project-via-postdoctoral-fellowship",
@@ -8211,10 +8375,10 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "vienna-observing-programs-postdoc",
@@ -8233,10 +8397,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "washu-edwin-t-jaynes-postdoctoral-fellowship",
@@ -8254,10 +8418,10 @@
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "weizmann-institute-benoziyo-prize-postdoctoral-fellowshi",
@@ -8275,10 +8439,10 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  },
  {
   "id": "westlake-safe-fellowship-postdocs",
@@ -8297,10 +8461,10 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-02",
+  "added": "2026-10-02",
   "stages": [
    "pd"
-  ],
-  "added": "2026-10-02"
+  ]
  },
  {
   "id": "wvu-astrophysics-reu",
@@ -8318,11 +8482,11 @@
   "region": "US",
   "nfit": "High",
   "checked": "2026-10-01",
+  "added": "2026-10-01",
   "stages": [
    "ug"
   ],
-  "d": null,
-  "added": "2026-10-01"
+  "d": null
  },
  {
   "id": "ymsc-tsinghua-postdoc-in-string-theory-mathematical-phys",
@@ -8340,9 +8504,9 @@
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
+  "added": "2026-09-30",
   "stages": [
    "pd"
-  ],
-  "added": "2026-09-30"
+  ]
  }
 ]
