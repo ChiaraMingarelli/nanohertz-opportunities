@@ -326,8 +326,8 @@
   "f": "Aspen Center for Physics",
   "c": "Visiting program",
   "s": "open",
-  "d": "2026-09-30",
-  "dt": "Mar 2027 conferences: Sep 30, 2026; Jan/Feb conferences closed Sep 15, 2026",
+  "d": "2026-10-15",
+  "dt": "Most 2027 deadlines have passed; Multimessenger Probes of New Scales in Physics (Jan 10-15) and World Models (Feb 28-Mar 5) take applications until Oct 15, 2026",
   "a": "One-week conferences (~80 people)",
   "e": "Open application through the ACP portal.",
   "u": "https://aspenphys.org/winter-conferences/",
@@ -335,7 +335,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-03",
   "added": "2026-09-29",
   "stages": [
    "pd",
@@ -432,21 +432,21 @@
   "n": "Astronova Fellowship (instrumentation)",
   "f": "Astronova program (Carnegie, Keck, U. Arizona, UC Berkeley, UCSD, UCSC)",
   "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-02",
-  "dt": "Oct 2, 2026",
+  "s": "watch",
+  "dt": "Last deadline Oct 2, 2026; the next cycle is not posted yet.",
   "a": "$88,527 starting; 4 years + 1",
   "e": "Postdocs developing instrumentation for astronomy, cosmology and planetary science.",
-  "u": "https://hsfoundation.tfaforms.net/f/AstronovaApplication",
+  "u": "https://www.hsfoundation.org/programs/science/astronomical-innovation-astronova-fellowship/",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-03",
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "atnf-2027apr-semester",
@@ -1459,27 +1459,6 @@
   ]
  },
  {
-  "id": "doe-suli-spring-2027-term",
-  "n": "DOE SULI - Spring 2027 term",
-  "f": "DOE Office of Science",
-  "c": "Summer program",
-  "s": "open",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026, 5 pm ET",
-  "a": "Paid internship at a DOE lab",
-  "e": "US citizens/PR undergrads or recent grads in STEM.",
-  "u": "https://science.osti.gov/wdts/suli",
-  "us": true,
-  "nom": false,
-  "region": "US",
-  "nfit": "Low",
-  "checked": "2026-09-29",
-  "added": "2026-09-29",
-  "stages": [
-   "ug"
-  ]
- },
- {
   "id": "doe-suli-summer-2027",
   "n": "DOE SULI - Summer 2027",
   "f": "DOE Office of Science",
@@ -1905,9 +1884,8 @@
   "n": "Academia Sinica IoP: Tenure-Track Faculty (all ranks)",
   "f": "Institute of Physics, Academia Sinica",
   "c": "Faculty job",
-  "s": "open",
-  "d": "2026-10-01",
-  "dt": "Deadline Oct 1, 2026 (today)",
+  "s": "rolling",
+  "dt": "Full-consideration date was Oct 1, 2026; later applications may be reviewed until the positions are filled (AJO listing to Dec 1, 2026).",
   "a": "Tenure-track research fellow, all ranks (university-faculty equivalent)",
   "e": "Priority areas include gravitational physics, cosmology and astroparticle physics; KAGRA/LIGO involvement. Start Sep 1, 2027.",
   "u": "https://academicjobsonline.org/ajo/jobs/32236",
@@ -1915,11 +1893,12 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-03",
   "added": "2026-10-01",
   "stages": [
    "fj"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "fj-amherst-college-assistant-professor-of-physics",
@@ -1947,9 +1926,8 @@
   "n": "Angelo State: Open Rank Instructor or TT Faculty & Planetarium Director",
   "f": "Dept. of Physics & Geosciences, Angelo State University",
   "c": "Faculty job",
-  "s": "open",
-  "d": "2026-10-02",
-  "dt": "Closes Oct 2, 2026",
+  "s": "rolling",
+  "dt": "Review began Oct 2, 2026; open until filled.",
   "a": "Open rank: Instructor or tenure-track",
   "e": "Astronomy/physics education combined with running the planetarium. Start Spring or Fall 2027.",
   "u": "https://employment.angelo.edu/postings/8017",
@@ -1957,11 +1935,12 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-03",
   "added": "2026-10-01",
   "stages": [
    "fj"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "fj-bates-college-asst-prof-of-physics-all-subfields-incl",
@@ -3033,9 +3012,8 @@
   "n": "Pitzer & Scripps Colleges: Tenure-Track Astrophysics Professor",
   "f": "Dept. of Natural Sciences, Pitzer and Scripps Colleges (Claremont)",
   "c": "Faculty job",
-  "s": "open",
-  "d": "2026-10-01",
-  "dt": "Deadline Oct 1, 2026 (today, per INSPIRE)",
+  "s": "rolling",
+  "dt": "Review began Oct 1, 2026; open until filled.",
   "a": "Assistant Professor, tenure-track",
   "e": "Astrophysics at a liberal-arts college; theory, computation, observation or experiment. Start July 1, 2027.",
   "u": "https://apply.interfolio.com/189792",
@@ -3043,11 +3021,12 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-03",
   "added": "2026-10-01",
   "stages": [
    "fj"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "fj-puc-chile-asst-prof-astronomical-instrumentation-expe",
@@ -3473,28 +3452,6 @@
   ]
  },
  {
-  "id": "fj-univ-of-haifa-tenure-track-position-in-physics-senior",
-  "n": "Univ. of Haifa: Tenure-track position in Physics (Senior Lecturer)",
-  "f": "Dept. of Physics, University of Haifa",
-  "c": "Faculty job",
-  "s": "open",
-  "d": "2026-10-01",
-  "dt": "Deadline Oct 1, 2026 (today, per INSPIRE)",
-  "a": "Senior Lecturer (assistant-professor equivalent), tenure-track",
-  "e": "Theoretical physics, biophysics and astrophysics encouraged. Teaching in Hebrew after an adjustment period. Start Oct 2027.",
-  "u": "https://physics.haifa.ac.il/?lang=en",
-  "unv": "Details from the INSPIRE listing",
-  "us": false,
-  "nom": false,
-  "region": "International",
-  "nfit": "Low",
-  "checked": "2026-10-01",
-  "added": "2026-10-01",
-  "stages": [
-   "fj"
-  ]
- },
- {
   "id": "fj-univ-of-hong-kong-tt-asst-assoc-full-prof-astrophysic",
   "n": "Univ. of Hong Kong: TT Asst/Assoc/Full Prof, Astrophysics & Astronomy",
   "f": "Dept. of Physics & HK Institute for Astronomy and Astrophysics, University of Hong Kong",
@@ -3649,8 +3606,7 @@
   "f": "Dept. of Physics, University of the South",
   "c": "Faculty job",
   "s": "rolling",
-  "d": "2026-10-01",
-  "dt": "Review begins Oct 1, 2026; open until filled",
+  "dt": "Review began Oct 1, 2026; open until filled.",
   "a": "Assistant Professor, tenure-track (Associate possible)",
   "e": "Teaching-heavy (5 courses/yr) physics position, subfield open. Start July 1, 2027.",
   "u": "https://jobs.chronicle.com/job/38035586/",
@@ -3658,11 +3614,12 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-03",
   "added": "2026-10-01",
   "stages": [
    "fj"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "fj-universit-laval-tt-or-tenured-professor-in-astrophysi",
@@ -3879,21 +3836,21 @@
   "n": "WashU: +AI Cluster Hire (Physics among depts)",
   "f": "Physics Dept. (+AI cluster), Washington University in St. Louis",
   "c": "Faculty job",
-  "s": "open",
-  "d": "2026-10-01",
-  "dt": "Deadline Oct 1, 2026 (today); AJO listing runs to Oct 31",
+  "s": "rolling",
+  "dt": "Fullest consideration by Oct 1, 2026; review continues until positions are filled. Apply via Interfolio.",
   "a": "Assistant/Associate/Full Professor, tenure-track",
   "e": "Multi-department AI cluster ('AI for Modeling the Physical World and Living Systems'). The physics fit is AI-driven modeling.",
-  "u": "https://academicjobsonline.org/ajo/jobs/32470",
+  "u": "https://apply.interfolio.com/191452",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-03",
   "added": "2026-10-01",
   "stages": [
    "fj"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "fj-westlake-astronomy-faculty",
@@ -3983,8 +3940,8 @@
   "n": "FRQ Doctoral Research Scholarship (B2)",
   "f": "Fonds de recherche du Québec",
   "c": "Scholarship",
-  "s": "closed",
-  "dt": "2027–28 deadline passed Sep 29, 2026; next cycle expected fall 2027",
+  "s": "watch",
+  "dt": "Last deadline Sep 29, 2026 (2027-28 competition); the next competition is not posted yet (expected fall 2027)",
   "a": "$25,000/yr, up to 12 terms ($100,000)",
   "e": "Canadian citizens/PRs with a valid RAMQ card (may hold it outside Québec), or non-citizens who study in Québec. Funds PhD research at Québec universities such as McGill's pulsar/FRB groups.",
   "u": "https://frq.gouv.qc.ca/en/program/doctoral-research-scholarship-2027-2028-b2-regular-component-and-re-entering-research-component/",
@@ -3993,7 +3950,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-03",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -4005,9 +3962,8 @@
   "n": "FRQ Master's Research Scholarship (B1)",
   "f": "Fonds de recherche du Québec",
   "c": "Scholarship",
-  "s": "open",
-  "d": "2026-10-01",
-  "dt": "2027–28 competition closes Oct 1, 2026, 4:00 pm ET (today)",
+  "s": "watch",
+  "dt": "Last deadline Oct 1, 2026 (2027-28 competition); the next competition is not posted yet",
   "a": "$20,000/yr for up to 6 terms",
   "e": "For research master's students, mainly in Québec (e.g. McGill). Eligibility (citizenship/PR, Québec residency/RAMQ) follows the FRQ program rules. Funds pulsar/FRB/radio master's work at Québec universities.",
   "u": "https://frq.gouv.qc.ca/en/program/masters-research-scholarships-2027-2028-b1-regular-component-and-re-entering-research-component/",
@@ -4016,11 +3972,12 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-03",
   "added": "2026-10-01",
   "stages": [
    "gr"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "frq-pbeee-merit-scholarship-for-foreign-students",
@@ -4117,9 +4074,8 @@
   "n": "GBT Observer Training Workshop",
   "f": "Green Bank Observatory",
   "c": "Training",
-  "s": "open",
-  "d": "2026-10-02",
-  "dt": "Oct 2026 workshop (virtual, Oct 27–30) applications close Oct 2, 2026; held about twice a year",
+  "s": "watch",
+  "dt": "Last deadline Oct 2, 2026 for the Oct 27-30 virtual workshop; the next workshop is not posted yet (held about twice a year)",
   "a": "Free",
   "e": "Open to GBT observers and the professional community (no amateurs), with priority for people who have active or pending GBT proposals. Directly relevant to NANOGrav GBT timing observers.",
   "u": "https://greenbankobservatory.org/events/oct-2026-gbt-training-workshop/",
@@ -4129,12 +4085,13 @@
   "pt": "other",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-03",
   "added": "2026-10-01",
   "stages": [
    "gr",
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "goldwater-scholarship-2027",
@@ -4446,16 +4403,16 @@
   "f": "Universidade de São Paulo, IAG; PI Elisabete de Gouveia Dal Pino",
   "c": "Group postdoc",
   "s": "open",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026 (today)",
+  "d": "2026-12-31",
+  "dt": "Applications through Dec 31, 2026 (FAPESP listing); reviewed until filled.",
   "a": "R$12,570/month; 1 year, renewable",
   "e": "SWGO detector simulations for gamma-ray arrays. Requires a PhD in physics or astronomy with simulation and coding skills.",
-  "u": "http://www.iag.usp.br",
+  "u": "https://fapesp.br/oportunidades/explorando-desenhos-de-detectores-cherenkov-em-%C3%81gua-%E2%80%93-de-dupla-camada-%E2%80%93-para-o-swgo:-aproximando-o-ao-ctao/9059/",
   "us": false,
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-03",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4572,9 +4529,8 @@
   "n": "IHEP Beijing: Postdocs in magnetic monopoles & cosmic rays",
   "f": "Institute of High Energy Physics, Beijing; contact Igor Ostrovskiy",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026",
+  "s": "rolling",
+  "dt": "Rolling review with no fixed deadline; INSPIRE listing runs to Apr 30, 2027.",
   "a": "competitive; not specified",
   "e": "Magnetic monopoles, cosmic rays and exotics. Requires a PhD and Geant4/CORSIKA and Python/ROOT skills.",
   "u": "https://inspirehep.net/jobs/3149734",
@@ -4582,11 +4538,12 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-03",
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "ihep-beijing-postdocs-in-neutrino-physics",
@@ -4608,27 +4565,6 @@
    "pd"
   ],
   "d": null
- },
- {
-  "id": "imperial-college-royal-commission-for-the-exhibition-of-",
-  "n": "Imperial College: Royal Commission for the Exhibition of 1851 Research Fellowship (EOI)",
-  "f": "Imperial College London, Department of Physics (fellowships team)",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026 (internal expression of interest)",
-  "a": "not listed; 3 years",
-  "e": "Internal expression of interest for hosting 1851 Research Fellowships in physics. For recent PhDs with at most 2.5 years of postdoc.",
-  "u": "https://www.imperial.ac.uk/physics/opportunities/research-fellowships/",
-  "us": false,
-  "nom": false,
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-09-30",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
  },
  {
   "id": "imprs-astro-munich-phd-positions-2027",
@@ -4915,9 +4851,8 @@
   "n": "KEK: QUP Postdoctoral Fellows in Experimental Physics",
   "f": "KEK, International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP)",
   "c": "Fellowship",
-  "s": "open",
-  "d": "2026-09-30",
-  "dt": "2026/09/30 10:59:59 (time zone not stated) - closes today",
+  "s": "rolling",
+  "dt": "Sep 30, 2026 date has passed; open until the positions are filled (AJO listing to Dec 31, 2026).",
   "a": "up to 3 years (annual contracts)",
   "e": "Quantum sensors and devices for dark matter, axion and gravitational-wave detection. PhD in physics or related field by start.",
   "u": "https://academicjobsonline.org/ajo/jobs/32184",
@@ -4925,11 +4860,12 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-03",
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "kicp-fellowship",
@@ -5021,9 +4957,8 @@
   "n": "Kyungpook National U.: Theoretical HEP postdoc",
   "f": "Kyungpook National University, Daegu; PI Seokhoon Yun",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026 (today)",
+  "s": "rolling",
+  "dt": "Deadline was Sep 30, 2026; applications are still considered until the position is filled.",
   "a": "~KRW 50,000,000/yr; 2 years, renewable",
   "e": "Particle phenomenology and cosmology, focused on astroparticle, dark matter and BSM. Requires a PhD in particle physics.",
   "u": "https://inspirehep.net/jobs/3198255",
@@ -5031,11 +4966,12 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-03",
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "lanl-computational-physics-student-summer-workshop",
@@ -5173,9 +5109,8 @@
   "n": "LIMS London: Arnold & Landau Junior Fellowships",
   "f": "London Institute for Mathematical Sciences",
   "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026",
+  "s": "rolling",
+  "dt": "No deadline; applications are reviewed weekly.",
   "a": "£51,000+; 3 years",
   "e": "Theoretical physics and mathematics. The summary notes the scheme targets researchers with a Russian background; check eligibility on the page.",
   "u": "https://lims.ac.uk/jobs/arnold--landau-fellows/",
@@ -5183,11 +5118,12 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-03",
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "lmu-munich-fraunhofer-schwarzschild-postdoctoral-fellows",
@@ -5401,27 +5337,6 @@
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
- },
- {
-  "id": "marshall-scholarship-2027",
-  "n": "Marshall Scholarship (2027)",
-  "f": "Marshall Aid Commemoration Commission",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-09-29",
-  "dt": "Applicant deadline Sep 29, 2026, 5 pm local; institutional endorsement Oct 1, 2026",
-  "a": "1 or 2 yrs of UK graduate study",
-  "e": "US citizens; must be endorsed by the undergraduate institution (max 24 per institution).",
-  "u": "https://www.marshallscholarship.org/apply",
-  "us": true,
-  "nom": true,
-  "region": "US",
-  "nfit": "Low",
-  "checked": "2026-09-29",
-  "added": "2026-09-29",
-  "stages": [
-   "ug"
   ]
  },
  {
@@ -6005,27 +5920,6 @@
    "gr"
   ],
   "d": null
- },
- {
-  "id": "naoj-fy2027-project-research-fellow",
-  "n": "NAOJ: FY2027 Project Research Fellow",
-  "f": "National Astronomical Observatory of Japan (host researcher chosen by applicant)",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-02",
-  "dt": "Oct 2, 2026",
-  "a": "350,000 JPY/month; 3 years",
-  "e": "Project research under a chosen NAOJ host. Applicants must consult the host in advance.",
-  "u": "https://aas.org/jobregister/ad/34ec514a",
-  "us": false,
-  "nom": false,
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-09-30",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
  },
  {
   "id": "nasa-finesst",
@@ -6708,28 +6602,6 @@
   ]
  },
  {
-  "id": "nsf-mps-ascend-postdoctoral-fellowships",
-  "n": "NSF MPS-Ascend Postdoctoral Fellowships",
-  "f": "NSF MPS",
-  "c": "Fellowship",
-  "s": "closed",
-  "dt": "Archived",
-  "a": "n/a",
-  "e": "Former MPS-wide postdoctoral fellowship; archived. Per coordinator.",
-  "u": "https://www.nsf.gov/",
-  "unv": "Status per coordinator; not re-fetched",
-  "us": false,
-  "nom": false,
-  "region": "US",
-  "nfit": "Low",
-  "checked": "2026-09-29",
-  "added": "2026-09-29",
-  "stages": [
-   "pd"
-  ],
-  "d": null
- },
- {
   "id": "nsf-reu-sites-physics-astronomy",
   "n": "NSF REU Sites (physics/astronomy)",
   "f": "NSF",
@@ -6789,27 +6661,6 @@
   "a": "€48k gross/yr + €5k/yr environment; 2 years",
   "e": "Independent research in Earth and Universe sciences; also listed on the LIGO LAAC job board. Requires prior postdoc work outside OCA.",
   "u": "https://aas.org/jobregister/ad/6076de03",
-  "us": false,
-  "nom": false,
-  "region": "International",
-  "nfit": "High",
-  "checked": "2026-09-30",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "observatoire-de-paris-21-cm-cosmology-eor-data-analysis",
-  "n": "Observatoire de Paris: 21-cm cosmology & EoR data analysis",
-  "f": "Observatoire de Paris / CNRS; PI Florent Mertens",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026 (today)",
-  "a": "€3,131–4,341/month; 24 months",
-  "e": "Recover 21-cm Epoch of Reionization signals with NenuFAR and LOFAR. Requires a PhD in astrophysics, radio astronomy, signal processing, ML or data analysis. Also on AAS (aas:7d8788c5).",
-  "u": "https://emploi.cnrs.fr/Offres/CDD/UMR8262-ELIBLA-005/Default.aspx?lang=EN",
   "us": false,
   "nom": false,
   "region": "International",
@@ -7235,8 +7086,8 @@
   "f": "Sigma Xi",
   "c": "Scholarship",
   "s": "open",
-  "d": "2026-10-01",
-  "dt": "Fall cycle deadline Oct 1, 2026 (today); next spring cycle Mar 15, 2027",
+  "d": "2027-03-15",
+  "dt": "Next deadline Mar 15, 2027 (spring cycle); the fall deadline is Oct 1",
   "a": "Astronomy designated awards up to $5,000; members: grad $500–$5,000, undergrad $500–$2,000; non-members up to $1,000",
   "e": "For undergraduate and graduate students (members and non-members). Small research grants for travel to observatories, equipment or data costs on pulsar/PTA projects.",
   "u": "https://www.sigmaxi.org/programs/grants-in-aid-of-research",
@@ -7245,7 +7096,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-03",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -7675,27 +7526,6 @@
   "nfit": "Low",
   "checked": "2026-10-02",
   "added": "2026-10-02",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "u-birmingham-research-fellow-in-nanohertz-gravitational-",
-  "n": "U. Birmingham: Research Fellow in nanohertz gravitational waves",
-  "f": "University of Birmingham, Institute for Gravitational Wave Astronomy; PI Bence Bécsy",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026 (today)",
-  "a": "£36,636–46,049; 3 years",
-  "e": "PTA data analysis for resolvable binaries and anisotropic backgrounds. Also on the LIGO LAAC board.",
-  "u": "https://aas.org/jobregister/ad/d4a4b376",
-  "us": false,
-  "nom": false,
-  "region": "International",
-  "nfit": "High",
-  "checked": "2026-09-30",
-  "added": "2026-09-30",
   "stages": [
    "pd"
   ]
