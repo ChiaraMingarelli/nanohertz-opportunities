@@ -1,6 +1,6 @@
 # Nanohertz Opportunities
 
-Fellowships, postdoc and faculty postings, student programs, travel grants and observing support for NANOGrav undergraduates, graduate students, postdocs and faculty-job seekers.
+Fellowships, postdoc and faculty postings, student programs, travel grants and observing support for NANOGrav undergraduates, graduate students, postdocs and faculty-job seekers. Maintained by Chiara Mingarelli (Department of Physics, Yale University); this is not an official NANOGrav page.
 
 - **Live page (updated automatically):** https://chiaramingarelli.github.io/nanohertz-opportunities/
 - **This repository:** a self-contained copy you can read, download or host yourself.
@@ -9,21 +9,21 @@ Fellowships, postdoc and faculty postings, student programs, travel grants and o
 
 `index.html` is a single file with all its data built in. Open it in a browser, or publish it with GitHub Pages (Settings → Pages → Deploy from branch → `main`, folder `/`).
 
-On a self-hosted copy everything works for everyone, including:
+The live page and any copy you host yourself have the same features, including:
 
-- filters by research area, career stage, status, type and deadline window
+- filters by career stage, region (US and Canada, or international too), deadline window, fit with pulsar-timing and gravitational-wave work and, for postdocs, position type (prize fellowship, group postdoc or other)
 - a **New** tag on programs added in the last 7 days ("New this week", or search for `new`)
 - tick boxes to export only the programs you care about as a calendar file (`.ics`, with reminders 6 and 4 weeks before each deadline) or a CSV
 - per-program **Google Calendar**, **Outlook** and **Apple Calendar** links
 
 ## Data
 
-`data/programs.json` has 448 programs, each taken from the funder's own page. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling, watch, closed), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug, gr, pd, fj, tt, ten), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
+`data/programs.json` has 448 programs, each taken from the funder's or employer's own page or from an academic job board such as Academic Jobs Online. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling or watch), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug undergraduates, gr graduate students, pd postdocs, fj faculty job ads), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
 
 `engine/export_ng.py` builds the page's data from the shared catalog (rows tagged `ng`) and removes anything Yale-specific. `engine/export_mod.js` is the export and calendar-link code inlined in the page.
 
-This site is rebuilt automatically from the shared catalog in [funding-finders](https://github.com/ChiaraMingarelli/funding-finders) and updated here within about an hour of any change. Don't edit `index.html` or `data/programs.json` here; the next update replaces them. The catalog is rechecked every Monday, new postings are added on the other days of the week, and the tips are kept current daily. Deadlines move, so check the funder's page before you commit to a date.
+This site is rebuilt automatically from the shared catalog in [funding-finders](https://github.com/ChiaraMingarelli/funding-finders) and copied here automatically a few times a day, so this page can be several hours behind the shared catalog. Don't edit `index.html` or `data/programs.json` here; the next update replaces them. The catalog is rechecked every Monday, new postings are added on the other days of the week, and listings whose deadline has passed are removed or updated every day. Deadlines move, so check the funder's page before you commit to a date.
 
 ## License
 
-The code (the scripts in the page and in `engine/`) is released under the [MIT License](LICENSE). The catalog (`data/programs.json`), the data embedded in the page and the page text are released under [CC BY 4.0](LICENSE-DATA), so you can reuse them with credit to Chiara Mingarelli. Program details come from each funder's own page; check there before relying on a date.
+The code (the scripts in the page and in `engine/`) is released under the [MIT License](LICENSE). The catalog (`data/programs.json`), the data embedded in the page and the page text are released under [CC BY 4.0](LICENSE-DATA), so you can reuse them with credit to Chiara Mingarelli. Program details come from each program's official posting; check there before relying on a date.
