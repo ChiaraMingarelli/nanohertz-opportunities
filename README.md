@@ -18,7 +18,7 @@ The live page and any copy you host yourself have the same features, including:
 
 ## Data
 
-`data/programs.json` has 463 programs, each taken from the funder's or employer's own page or from an academic job board such as Academic Jobs Online. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling or watch), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug undergraduates, gr graduate students, pd postdocs, fj faculty job ads), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
+`data/programs.json` has 475 programs, each taken from the funder's or employer's own page or from an academic job board such as Academic Jobs Online. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling or watch), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug undergraduates, gr graduate students, pd postdocs, fj faculty job ads), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
 
 `engine/export_ng.py` builds the page's data from the shared catalog (rows tagged `ng`) and removes anything Yale-specific. `engine/export_mod.js` is the export and calendar-link code inlined in the page.
 
